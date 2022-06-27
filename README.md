@@ -2,9 +2,9 @@
 
 Heavy riffs, melodic solos on electric guitar, fingerstyle arrangements on acoustic. A classic e4 chess player. Nocturnal book reader. At the gym, I train my legs.
 
-- 💻 I'm currently developing for writing unit tests
+- 💻 I'm currently mastering Vue3 approach and newest technologies
 - 📖 Focused on Vue.js
-- 🎯 I'm aiming to master MEVN Stack
+- 🎯 I'm aiming to master Front End skills
 
 ## Languages and tools
 
