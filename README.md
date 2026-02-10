@@ -12,16 +12,16 @@ AI is part of my daily workflow — previously worked on AI solutions for develo
 
 ### Ulubione technologie
 
-- **Front-end:** Vue 3 & Vue 2 (Composition API, Nuxt, Pinia, Vite), TypeScript
+- **Front-end:** Vue 3 (Composition API, Nuxt, Pinia, Vite), TypeScript
 - **Backend:** Node.js, Express.js — high-performance APIs
 - **Data & types:** PostgreSQL, MongoDB, Drizzle ORM, Zod (end-to-end type safety)
 - **Reliability:** Redis, Pino — caching, logging, monitoring, rate limiting
 - **Testing & QA:** Vitest, Jest, Mocha + Chai + Sinon, Cypress
 - **AI workflow:** multiple tools in daily use, a personal base of proven solutions, and solid understanding of different LLM use cases (code, docs, refactor, review, ideation)
 
-### Tech stack (icons)
+### Tech stack
 
-[![My Skills](https://skill-icons.dev/icons?i=vue,ts,js,nodejs,express,postgres,mongodb,sass,git,vite,docker,redis,vuetify,nuxtjs,vitest)](https://skill-icons.dev)
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 ---
 
@@ -30,7 +30,7 @@ AI is part of my daily workflow — previously worked on AI solutions for develo
 | Project | Description | Tech |
 |--------|-------------|------|
 | **[daap.pro](https://daap.pro/)** | Company site — MES systems, production integration, web apps & automation (ERP/MES/WMS). | Nuxt, TypeScript, GSAP, Three.js |
-| **[ur.daap.pro](https://ur.daap.pro/)** | Web app (frontend) — product frontend for DAAP solutions. | Vue, TypeScript |
+| **[ur.daap.pro](https://ur.daap.pro/)** | Web app (frontend) — product frontend for DAAP solutions. | Vue, TypeScript, Node, Express, PostreSQL, drizzle-ORM, Zod|
 | **[MES by DAAP (demo)](https://demo.daap.pro/login)** | MES/CMMS demo — dashboards, production monitoring, ERP/MES/WMS integration. | Vue 3, TypeScript, Node, Express, MongoDB |
 
 ---
