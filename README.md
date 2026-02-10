@@ -6,7 +6,8 @@ Vue for ~5 years, backend-oriented (Node.js, Express, APIs).
 Into clean code, maintainable architecture, and solving real problems.
 AI is part of my daily workflow — previously worked on AI solutions for developers (AI Guild).
 
-Outside code: electric guitar, chess (e4), gym + running + cycling, late-night reading.
+*Outside code: electric guitar, chess (e4), gym + running + cycling, late-night reading.*
+
 ---
 
 ### Ulubione technologie
@@ -20,11 +21,13 @@ Outside code: electric guitar, chess (e4), gym + running + cycling, late-night r
 
 ---
 
-### Tech stack
+### Recent projects (DAAP)
 
-<img src="https://skill-icons.dev/icons?i=vue,ts,js,nodejs,express,postgres,sass,git" alt="Tech stack" />
-
-Vue 2/3 · Nuxt · Pinia · Vite · TypeScript · Node.js · Express · PostgreSQL · MongoDB · Drizzle ORM · Zod · Redis · Pino · Vitest · Jest · Cypress · Docker · Git
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[daap.pro](https://daap.pro/)** | Company site — MES systems, production integration, web apps & automation (ERP/MES/WMS). | Nuxt, TypeScript, GSAP, Three.js |
+| **[ur.daap.pro](https://ur.daap.pro/)** | Web app (frontend) — product frontend for DAAP solutions. | Vue, TypeScript |
+| **[MES by DAAP (demo)](https://demo.daap.pro/login)** | MES/CMMS demo — dashboards, production monitoring, ERP/MES/WMS integration. | Vue 3, TypeScript, Node, Express, MongoDB |Zod · Redis · Pino · Vitest · Jest · Cypress · Docker · Git
 
 ---
 
@@ -33,16 +36,6 @@ Vue 2/3 · Nuxt · Pinia · Vite · TypeScript · Node.js · Express · PostgreS
 - **SAIE/DAAP** (01.2022–01.2026) — Freelance Frontend Developer. Production Management System (Dolina Noteci): advanced system supporting industrial production processes; Production Management System design (Hochland).
 - **Symfonia-Mid** (08.2022–12.2025) — Frontend Developer, HR system: core components, Vue 2→3 migration, AI Guild (AI-driven solutions), code reviews, UI/UX
 - **Creativium** (03–08.2022) — Junior Frontend Developer: product configurator, performance with large datasets, MES design (Hochland)
-
----
-
-### Recent projects (DAAP)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[daap.pro](https://daap.pro/)** | Company site — MES systems, production integration, web apps & automation (ERP/MES/WMS). | Vue, Node, integrations |
-| **[ur.daap.pro](https://ur.daap.pro/)** | Web app (frontend) — product frontend for DAAP solutions. | Vue, TypeScript |
-| **[MES by DAAP (demo)](https://demo.daap.pro/login)** | MES/CMMS demo — dashboards, production monitoring, ERP/MES/WMS integration. | Vue 3, TypeScript, Node, Express, MongoDB |
 
 ---
 
